@@ -3,6 +3,6 @@ print('Sucessfully ff etc..')
 a=2
 b=5
 c=a+b
-prnt(c)
+print(c)
 
 prnt("ssss")
